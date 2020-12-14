@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="297" started-at="2020-12-09T08:01:07Z" finished-at="2020-12-09T08:01:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="297" started-at="2020-12-09T08:01:07Z" finished-at="2020-12-09T08:01:07Z">
+      <class name="com.qa.AllLinks.TestNGPriorityDemo">
+        <test-method status="PASS" signature="testOne()[pri:-9, instance:com.qa.AllLinks.TestNGPriorityDemo@b51256]" name="testOne" duration-ms="63" started-at="2020-12-09T08:01:07Z" finished-at="2020-12-09T08:01:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:com.qa.AllLinks.TestNGPriorityDemo@b51256]" name="testTwo" duration-ms="0" started-at="2020-12-09T08:01:07Z" finished-at="2020-12-09T08:01:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- com.qa.AllLinks.TestNGPriorityDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
