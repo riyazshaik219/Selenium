@@ -12,7 +12,7 @@ public class ReadPdfText {
 	@Test
 	public void readPdf() throws IOException {
 	
-		String pdfLocation="C:\\Users\\AM\\Desktop\\October2020-Resume.pdf";
+		String pdfLocation="C:\\Users\\RIYA\\Desktop\\Resume.pdf";
 		
 		PDFUtil pdfutil = new PDFUtil();
 		
